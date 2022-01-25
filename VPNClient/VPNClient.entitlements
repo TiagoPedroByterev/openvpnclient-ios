@@ -13,7 +13,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.br.com.deneraraujo.VPNClient</string>
+		<string>group.com.byterev.VPNClient</string>
 	</array>
 </dict>
 </plist>

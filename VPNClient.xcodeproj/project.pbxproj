@@ -673,14 +673,14 @@
 				CODE_SIGN_ENTITLEMENTS = VPNClient/VPNClient.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"VPNClient/Preview Content\"";
-				DEVELOPMENT_TEAM = R39CR3AH82;
+				DEVELOPMENT_TEAM = MV32HA3U3N;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = VPNClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.deneraraujo.VPNClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.byterev.VPNClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -696,14 +696,14 @@
 				CODE_SIGN_ENTITLEMENTS = VPNClient/VPNClient.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"VPNClient/Preview Content\"";
-				DEVELOPMENT_TEAM = R39CR3AH82;
+				DEVELOPMENT_TEAM = MV32HA3U3N;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = VPNClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.deneraraujo.VPNClient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.byterev.VPNClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -716,14 +716,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TunnelProvider/TunnelProvider.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R39CR3AH82;
+				DEVELOPMENT_TEAM = MV32HA3U3N;
 				INFOPLIST_FILE = TunnelProvider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.deneraraujo.VPNClient.TunnelProvider;
+				PRODUCT_BUNDLE_IDENTIFIER = com.byterev.VPNClient.TunnelProvider;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -737,14 +737,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = TunnelProvider/TunnelProvider.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R39CR3AH82;
+				DEVELOPMENT_TEAM = MV32HA3U3N;
 				INFOPLIST_FILE = TunnelProvider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.deneraraujo.VPNClient.TunnelProvider;
+				PRODUCT_BUNDLE_IDENTIFIER = com.byterev.VPNClient.TunnelProvider;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
